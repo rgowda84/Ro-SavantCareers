@@ -1,0 +1,452 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FFA40130197C90F0005A15BC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA4012F197C90F0005A15BC /* Foundation.framework */; };
+		FFA40132197C90F0005A15BC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA40131197C90F0005A15BC /* CoreGraphics.framework */; };
+		FFA40134197C90F0005A15BC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA40133197C90F0005A15BC /* UIKit.framework */; };
+		FFA4013A197C90F0005A15BC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FFA40138197C90F0005A15BC /* InfoPlist.strings */; };
+		FFA4013C197C90F0005A15BC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA4013B197C90F0005A15BC /* main.m */; };
+		FFA40140197C90F0005A15BC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA4013F197C90F0005A15BC /* AppDelegate.m */; };
+		FFA40142197C90F0005A15BC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFA40141197C90F0005A15BC /* Images.xcassets */; };
+		FFA40149197C90F1005A15BC /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA40148197C90F1005A15BC /* XCTest.framework */; };
+		FFA4014A197C90F1005A15BC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA4012F197C90F0005A15BC /* Foundation.framework */; };
+		FFA4014B197C90F1005A15BC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA40133197C90F0005A15BC /* UIKit.framework */; };
+		FFA40153197C90F1005A15BC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FFA40151197C90F1005A15BC /* InfoPlist.strings */; };
+		FFA40155197C90F1005A15BC /* SavantCareersTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA40154197C90F1005A15BC /* SavantCareersTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FFA4014C197C90F1005A15BC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFA40124197C90F0005A15BC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FFA4012B197C90F0005A15BC;
+			remoteInfo = SavantCareers;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FFA4012C197C90F0005A15BC /* SavantCareers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SavantCareers.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FFA4012F197C90F0005A15BC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		FFA40131197C90F0005A15BC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		FFA40133197C90F0005A15BC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		FFA40137197C90F0005A15BC /* SavantCareers-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SavantCareers-Info.plist"; sourceTree = "<group>"; };
+		FFA40139197C90F0005A15BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FFA4013B197C90F0005A15BC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FFA4013D197C90F0005A15BC /* SavantCareers-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SavantCareers-Prefix.pch"; sourceTree = "<group>"; };
+		FFA4013E197C90F0005A15BC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FFA4013F197C90F0005A15BC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FFA40141197C90F0005A15BC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		FFA40147197C90F1005A15BC /* SavantCareersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SavantCareersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FFA40148197C90F1005A15BC /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		FFA40150197C90F1005A15BC /* SavantCareersTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SavantCareersTests-Info.plist"; sourceTree = "<group>"; };
+		FFA40152197C90F1005A15BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FFA40154197C90F1005A15BC /* SavantCareersTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SavantCareersTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FFA40129197C90F0005A15BC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FFA40132197C90F0005A15BC /* CoreGraphics.framework in Frameworks */,
+				FFA40134197C90F0005A15BC /* UIKit.framework in Frameworks */,
+				FFA40130197C90F0005A15BC /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FFA40144197C90F1005A15BC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FFA40149197C90F1005A15BC /* XCTest.framework in Frameworks */,
+				FFA4014B197C90F1005A15BC /* UIKit.framework in Frameworks */,
+				FFA4014A197C90F1005A15BC /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FFA40123197C90F0005A15BC = {
+			isa = PBXGroup;
+			children = (
+				FFA40135197C90F0005A15BC /* SavantCareers */,
+				FFA4014E197C90F1005A15BC /* SavantCareersTests */,
+				FFA4012E197C90F0005A15BC /* Frameworks */,
+				FFA4012D197C90F0005A15BC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FFA4012D197C90F0005A15BC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FFA4012C197C90F0005A15BC /* SavantCareers.app */,
+				FFA40147197C90F1005A15BC /* SavantCareersTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FFA4012E197C90F0005A15BC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FFA4012F197C90F0005A15BC /* Foundation.framework */,
+				FFA40131197C90F0005A15BC /* CoreGraphics.framework */,
+				FFA40133197C90F0005A15BC /* UIKit.framework */,
+				FFA40148197C90F1005A15BC /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FFA40135197C90F0005A15BC /* SavantCareers */ = {
+			isa = PBXGroup;
+			children = (
+				FFA4013E197C90F0005A15BC /* AppDelegate.h */,
+				FFA4013F197C90F0005A15BC /* AppDelegate.m */,
+				FFA40141197C90F0005A15BC /* Images.xcassets */,
+				FFA40136197C90F0005A15BC /* Supporting Files */,
+			);
+			path = SavantCareers;
+			sourceTree = "<group>";
+		};
+		FFA40136197C90F0005A15BC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FFA40137197C90F0005A15BC /* SavantCareers-Info.plist */,
+				FFA40138197C90F0005A15BC /* InfoPlist.strings */,
+				FFA4013B197C90F0005A15BC /* main.m */,
+				FFA4013D197C90F0005A15BC /* SavantCareers-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FFA4014E197C90F1005A15BC /* SavantCareersTests */ = {
+			isa = PBXGroup;
+			children = (
+				FFA40154197C90F1005A15BC /* SavantCareersTests.m */,
+				FFA4014F197C90F1005A15BC /* Supporting Files */,
+			);
+			path = SavantCareersTests;
+			sourceTree = "<group>";
+		};
+		FFA4014F197C90F1005A15BC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FFA40150197C90F1005A15BC /* SavantCareersTests-Info.plist */,
+				FFA40151197C90F1005A15BC /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FFA4012B197C90F0005A15BC /* SavantCareers */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FFA40158197C90F1005A15BC /* Build configuration list for PBXNativeTarget "SavantCareers" */;
+			buildPhases = (
+				FFA40128197C90F0005A15BC /* Sources */,
+				FFA40129197C90F0005A15BC /* Frameworks */,
+				FFA4012A197C90F0005A15BC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SavantCareers;
+			productName = SavantCareers;
+			productReference = FFA4012C197C90F0005A15BC /* SavantCareers.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FFA40146197C90F1005A15BC /* SavantCareersTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FFA4015B197C90F1005A15BC /* Build configuration list for PBXNativeTarget "SavantCareersTests" */;
+			buildPhases = (
+				FFA40143197C90F1005A15BC /* Sources */,
+				FFA40144197C90F1005A15BC /* Frameworks */,
+				FFA40145197C90F1005A15BC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FFA4014D197C90F1005A15BC /* PBXTargetDependency */,
+			);
+			name = SavantCareersTests;
+			productName = SavantCareersTests;
+			productReference = FFA40147197C90F1005A15BC /* SavantCareersTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FFA40124197C90F0005A15BC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Shishira Ramesh";
+				TargetAttributes = {
+					FFA40146197C90F1005A15BC = {
+						TestTargetID = FFA4012B197C90F0005A15BC;
+					};
+				};
+			};
+			buildConfigurationList = FFA40127197C90F0005A15BC /* Build configuration list for PBXProject "SavantCareers" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = FFA40123197C90F0005A15BC;
+			productRefGroup = FFA4012D197C90F0005A15BC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FFA4012B197C90F0005A15BC /* SavantCareers */,
+				FFA40146197C90F1005A15BC /* SavantCareersTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FFA4012A197C90F0005A15BC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FFA4013A197C90F0005A15BC /* InfoPlist.strings in Resources */,
+				FFA40142197C90F0005A15BC /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FFA40145197C90F1005A15BC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FFA40153197C90F1005A15BC /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FFA40128197C90F0005A15BC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FFA40140197C90F0005A15BC /* AppDelegate.m in Sources */,
+				FFA4013C197C90F0005A15BC /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FFA40143197C90F1005A15BC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FFA40155197C90F1005A15BC /* SavantCareersTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FFA4014D197C90F1005A15BC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FFA4012B197C90F0005A15BC /* SavantCareers */;
+			targetProxy = FFA4014C197C90F1005A15BC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		FFA40138197C90F0005A15BC /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FFA40139197C90F0005A15BC /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		FFA40151197C90F1005A15BC /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FFA40152197C90F1005A15BC /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FFA40156197C90F1005A15BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		FFA40157197C90F1005A15BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FFA40159197C90F1005A15BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SavantCareers/SavantCareers-Prefix.pch";
+				INFOPLIST_FILE = "SavantCareers/SavantCareers-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		FFA4015A197C90F1005A15BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SavantCareers/SavantCareers-Prefix.pch";
+				INFOPLIST_FILE = "SavantCareers/SavantCareers-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		FFA4015C197C90F1005A15BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SavantCareers.app/SavantCareers";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SavantCareers/SavantCareers-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "SavantCareersTests/SavantCareersTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		FFA4015D197C90F1005A15BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SavantCareers.app/SavantCareers";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SavantCareers/SavantCareers-Prefix.pch";
+				INFOPLIST_FILE = "SavantCareersTests/SavantCareersTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FFA40127197C90F0005A15BC /* Build configuration list for PBXProject "SavantCareers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FFA40156197C90F1005A15BC /* Debug */,
+				FFA40157197C90F1005A15BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FFA40158197C90F1005A15BC /* Build configuration list for PBXNativeTarget "SavantCareers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FFA40159197C90F1005A15BC /* Debug */,
+				FFA4015A197C90F1005A15BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		FFA4015B197C90F1005A15BC /* Build configuration list for PBXNativeTarget "SavantCareersTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FFA4015C197C90F1005A15BC /* Debug */,
+				FFA4015D197C90F1005A15BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FFA40124197C90F0005A15BC /* Project object */;
+}
