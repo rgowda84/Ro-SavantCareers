@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface MainViewController : UIViewController
-// Test Comment
+// Test comment 1
+// Test comment 2
 
 @end
