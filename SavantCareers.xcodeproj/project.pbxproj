@@ -19,6 +19,22 @@
 		FFA4014B197C90F1005A15BC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA40133197C90F0005A15BC /* UIKit.framework */; };
 		FFA40153197C90F1005A15BC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FFA40151197C90F1005A15BC /* InfoPlist.strings */; };
 		FFA40155197C90F1005A15BC /* SavantCareersTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA40154197C90F1005A15BC /* SavantCareersTests.m */; };
+		FFA40164197C999A005A15BC /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA40162197C999A005A15BC /* MainViewController.m */; };
+		FFA40165197C999A005A15BC /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFA40163197C999A005A15BC /* MainViewController.xib */; };
+		FFA40169197C9E6D005A15BC /* SavantSystemMainView.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA40167197C9E6D005A15BC /* SavantSystemMainView.m */; };
+		FFA4016A197C9E6D005A15BC /* SavantSystemMainView.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFA40168197C9E6D005A15BC /* SavantSystemMainView.xib */; };
+		FFA40173197CA0A0005A15BC /* MenuTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA40171197CA0A0005A15BC /* MenuTableViewController.m */; };
+		FFA40174197CA0A0005A15BC /* MenuTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFA40172197CA0A0005A15BC /* MenuTableViewController.xib */; };
+		FFA40177197CA372005A15BC /* Positions.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA40176197CA372005A15BC /* Positions.m */; };
+		FFA4017C197CBDCD005A15BC /* PostionsTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA4017A197CBDCD005A15BC /* PostionsTableViewCell.m */; };
+		FFA4017D197CBDCD005A15BC /* PostionsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFA4017B197CBDCD005A15BC /* PostionsTableViewCell.xib */; };
+		FFA40181197CD43E005A15BC /* JobListingTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA4017F197CD43E005A15BC /* JobListingTableViewController.m */; };
+		FFA40182197CD43E005A15BC /* JobListingTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFA40180197CD43E005A15BC /* JobListingTableViewController.xib */; };
+		FFA40184197D7A3C005A15BC /* positionDetails.plist in Resources */ = {isa = PBXBuildFile; fileRef = FFA40183197D7A3C005A15BC /* positionDetails.plist */; };
+		FFA40188197D9327005A15BC /* JobDetailsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA40186197D9327005A15BC /* JobDetailsTableViewController.m */; };
+		FFA40189197D9327005A15BC /* JobDetailsTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFA40187197D9327005A15BC /* JobDetailsTableViewController.xib */; };
+		FFA4018D197E09A6005A15BC /* CustomJobDetailsTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA4018B197E09A6005A15BC /* CustomJobDetailsTableViewCell.m */; };
+		FFA4018E197E09A6005A15BC /* CustomJobDetailsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFA4018C197E09A6005A15BC /* CustomJobDetailsTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +64,30 @@
 		FFA40150197C90F1005A15BC /* SavantCareersTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SavantCareersTests-Info.plist"; sourceTree = "<group>"; };
 		FFA40152197C90F1005A15BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FFA40154197C90F1005A15BC /* SavantCareersTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SavantCareersTests.m; sourceTree = "<group>"; };
+		FFA40161197C999A005A15BC /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		FFA40162197C999A005A15BC /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		FFA40163197C999A005A15BC /* MainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
+		FFA40166197C9E6D005A15BC /* SavantSystemMainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SavantSystemMainView.h; sourceTree = "<group>"; };
+		FFA40167197C9E6D005A15BC /* SavantSystemMainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SavantSystemMainView.m; sourceTree = "<group>"; };
+		FFA40168197C9E6D005A15BC /* SavantSystemMainView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SavantSystemMainView.xib; sourceTree = "<group>"; };
+		FFA40170197CA0A0005A15BC /* MenuTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuTableViewController.h; sourceTree = "<group>"; };
+		FFA40171197CA0A0005A15BC /* MenuTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuTableViewController.m; sourceTree = "<group>"; };
+		FFA40172197CA0A0005A15BC /* MenuTableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MenuTableViewController.xib; sourceTree = "<group>"; };
+		FFA40175197CA372005A15BC /* Positions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Positions.h; sourceTree = "<group>"; };
+		FFA40176197CA372005A15BC /* Positions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Positions.m; sourceTree = "<group>"; };
+		FFA40179197CBDCD005A15BC /* PostionsTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostionsTableViewCell.h; sourceTree = "<group>"; };
+		FFA4017A197CBDCD005A15BC /* PostionsTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostionsTableViewCell.m; sourceTree = "<group>"; };
+		FFA4017B197CBDCD005A15BC /* PostionsTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PostionsTableViewCell.xib; sourceTree = "<group>"; };
+		FFA4017E197CD43E005A15BC /* JobListingTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JobListingTableViewController.h; sourceTree = "<group>"; };
+		FFA4017F197CD43E005A15BC /* JobListingTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JobListingTableViewController.m; sourceTree = "<group>"; };
+		FFA40180197CD43E005A15BC /* JobListingTableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = JobListingTableViewController.xib; sourceTree = "<group>"; };
+		FFA40183197D7A3C005A15BC /* positionDetails.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = positionDetails.plist; sourceTree = "<group>"; };
+		FFA40185197D9327005A15BC /* JobDetailsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JobDetailsTableViewController.h; sourceTree = "<group>"; };
+		FFA40186197D9327005A15BC /* JobDetailsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JobDetailsTableViewController.m; sourceTree = "<group>"; };
+		FFA40187197D9327005A15BC /* JobDetailsTableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = JobDetailsTableViewController.xib; sourceTree = "<group>"; };
+		FFA4018A197E09A6005A15BC /* CustomJobDetailsTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomJobDetailsTableViewCell.h; sourceTree = "<group>"; };
+		FFA4018B197E09A6005A15BC /* CustomJobDetailsTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomJobDetailsTableViewCell.m; sourceTree = "<group>"; };
+		FFA4018C197E09A6005A15BC /* CustomJobDetailsTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomJobDetailsTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,9 +147,11 @@
 		FFA40135197C90F0005A15BC /* SavantCareers */ = {
 			isa = PBXGroup;
 			children = (
+				FFA40160197C993E005A15BC /* Classes */,
+				FFA4015F197C9934005A15BC /* Views */,
+				FFA4015E197C9927005A15BC /* Assets */,
 				FFA4013E197C90F0005A15BC /* AppDelegate.h */,
 				FFA4013F197C90F0005A15BC /* AppDelegate.m */,
-				FFA40141197C90F0005A15BC /* Images.xcassets */,
 				FFA40136197C90F0005A15BC /* Supporting Files */,
 			);
 			path = SavantCareers;
@@ -122,6 +164,7 @@
 				FFA40138197C90F0005A15BC /* InfoPlist.strings */,
 				FFA4013B197C90F0005A15BC /* main.m */,
 				FFA4013D197C90F0005A15BC /* SavantCareers-Prefix.pch */,
+				FFA40183197D7A3C005A15BC /* positionDetails.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -142,6 +185,51 @@
 				FFA40151197C90F1005A15BC /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FFA4015E197C9927005A15BC /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				FFA40141197C90F0005A15BC /* Images.xcassets */,
+			);
+			name = Assets;
+			sourceTree = "<group>";
+		};
+		FFA4015F197C9934005A15BC /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				FFA4018C197E09A6005A15BC /* CustomJobDetailsTableViewCell.xib */,
+				FFA40172197CA0A0005A15BC /* MenuTableViewController.xib */,
+				FFA40187197D9327005A15BC /* JobDetailsTableViewController.xib */,
+				FFA40180197CD43E005A15BC /* JobListingTableViewController.xib */,
+				FFA4017B197CBDCD005A15BC /* PostionsTableViewCell.xib */,
+				FFA40168197C9E6D005A15BC /* SavantSystemMainView.xib */,
+				FFA40163197C999A005A15BC /* MainViewController.xib */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		FFA40160197C993E005A15BC /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				FFA40161197C999A005A15BC /* MainViewController.h */,
+				FFA40162197C999A005A15BC /* MainViewController.m */,
+				FFA40166197C9E6D005A15BC /* SavantSystemMainView.h */,
+				FFA40167197C9E6D005A15BC /* SavantSystemMainView.m */,
+				FFA40170197CA0A0005A15BC /* MenuTableViewController.h */,
+				FFA40171197CA0A0005A15BC /* MenuTableViewController.m */,
+				FFA40175197CA372005A15BC /* Positions.h */,
+				FFA40176197CA372005A15BC /* Positions.m */,
+				FFA40179197CBDCD005A15BC /* PostionsTableViewCell.h */,
+				FFA4017A197CBDCD005A15BC /* PostionsTableViewCell.m */,
+				FFA4017E197CD43E005A15BC /* JobListingTableViewController.h */,
+				FFA4017F197CD43E005A15BC /* JobListingTableViewController.m */,
+				FFA40185197D9327005A15BC /* JobDetailsTableViewController.h */,
+				FFA40186197D9327005A15BC /* JobDetailsTableViewController.m */,
+				FFA4018A197E09A6005A15BC /* CustomJobDetailsTableViewCell.h */,
+				FFA4018B197E09A6005A15BC /* CustomJobDetailsTableViewCell.m */,
+			);
+			name = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -220,7 +308,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				FFA4013A197C90F0005A15BC /* InfoPlist.strings in Resources */,
+				FFA4018E197E09A6005A15BC /* CustomJobDetailsTableViewCell.xib in Resources */,
+				FFA40165197C999A005A15BC /* MainViewController.xib in Resources */,
+				FFA40184197D7A3C005A15BC /* positionDetails.plist in Resources */,
+				FFA40182197CD43E005A15BC /* JobListingTableViewController.xib in Resources */,
 				FFA40142197C90F0005A15BC /* Images.xcassets in Resources */,
+				FFA4016A197C9E6D005A15BC /* SavantSystemMainView.xib in Resources */,
+				FFA4017D197CBDCD005A15BC /* PostionsTableViewCell.xib in Resources */,
+				FFA40174197CA0A0005A15BC /* MenuTableViewController.xib in Resources */,
+				FFA40189197D9327005A15BC /* JobDetailsTableViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,8 +335,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFA4017C197CBDCD005A15BC /* PostionsTableViewCell.m in Sources */,
 				FFA40140197C90F0005A15BC /* AppDelegate.m in Sources */,
+				FFA40188197D9327005A15BC /* JobDetailsTableViewController.m in Sources */,
+				FFA40164197C999A005A15BC /* MainViewController.m in Sources */,
+				FFA40177197CA372005A15BC /* Positions.m in Sources */,
+				FFA4018D197E09A6005A15BC /* CustomJobDetailsTableViewCell.m in Sources */,
 				FFA4013C197C90F0005A15BC /* main.m in Sources */,
+				FFA40169197C9E6D005A15BC /* SavantSystemMainView.m in Sources */,
+				FFA40181197CD43E005A15BC /* JobListingTableViewController.m in Sources */,
+				FFA40173197CA0A0005A15BC /* MenuTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +541,7 @@
 				FFA4015A197C90F1005A15BC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FFA4015B197C90F1005A15BC /* Build configuration list for PBXNativeTarget "SavantCareersTests" */ = {
 			isa = XCConfigurationList;
@@ -445,6 +550,7 @@
 				FFA4015D197C90F1005A15BC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

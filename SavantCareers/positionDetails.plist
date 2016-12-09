@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PositionTitle</key>
+	<array>
+		<string>Product Manager</string>
+		<string>Component Profile Engineer</string>
+		<string>Regional Sales Manager</string>
+		<string>Online Product Manager</string>
+		<string>Copy Writer</string>
+		<string>Production Artist</string>
+		<string>Mac OSX Developer</string>
+		<string>Junior iOS Developer</string>
+	</array>
+	<key>PositionLocation</key>
+	<array>
+		<string>Hyannis, MA</string>
+		<string>Hyannis, MA</string>
+		<string>Mid-Atlantic &amp; Ohio</string>
+		<string>New York,NY; San Francisco,CA; Hyannis,MA</string>
+		<string>New York City</string>
+		<string>New York City</string>
+		<string>Hyannis, MA</string>
+		<string>Hyannis, MA</string>
+	</array>
+	<key>PositionDesc</key>
+	<array>
+		<string>We are looking for a product specialist to join the fast-paced Savant product management team. This is your opportunity to join the team that&apos;s bringing differentiated new products and workflow application solutions to the home control and automation markets to help our customers increase their productivity and streamline their workflows. As a member of this high-performing team, your product management role will further advance the success of the automation products with an initial focus on the residential market including Systems Integrator Channel, Builder, &amp; Retail.</string>
+		<string>Develop and test interface specifications for consumer and commercial electronic devices. Use internal tools to specify and test control of consumer electronic components. Assist in the development of internal tools and simulators to verify correct operation of profiles.</string>
+		<string>Savant Systems is seeking a highly motivated, professional Regional Sales Manager to promote, sell and support the overall market development in the region of the Mid-Atlantic and Ohio Valley.</string>
+		<string>Savant&apos;s team is seeking an energetic and innovative Online Product Manager to help develop Savant’s online business initiatives.  Savant produces cutting edge smart home products and solutions, delivering the latest innovations in the home automation industry in a fast paced high growth environment. In your role as Online Product Manager, you will work closely with our internal and external customers, B2B partners, and the Savant sales team to understand their needs and seek out online solutions and opportunities that will give Savant a long-term competitive advantage in the market.</string>
+		<string>Savant has an immediate opening for a Senior Copywriter. This role is responsible for developing smart and relevant concepts, as well as generating all forms of copywriting: digital, traditional and strategic. Balancing creative thinking with interpersonal skills, this person will have experience presenting and defending concepts to senior leadership and marketing groups.</string>
+		<string>We are looking for a digital Production Artist for our New York  creative team. Production artists use their expertise in design and computer applications to review final designs and layouts. In finalizing the products, artists may suggest improvements and modify formats to increase the quality of production and ensure that standards are met. Production Artist will spec and optimize mobile design layouts for orientations including tablet/phone, portrait/landscape. Must have knowledge of Android and iOS platforms with a deep understanding of graphic deliverables. Past experience working with development teams preferred. Original background in web platforms preferred. Other technical duties may include scaling, cropping, retouching, repositioning and preflighting. Production artists may also be responsible for archiving and updating graphic files.</string>
+		<string>Savant Systems is seeking an experienced Mac OS X Developer to contribute to our advanced control and automation systems and tools development. This opportunity provides an exciting venue to apply creativity, skill, and experience to solve a wide array of challenges.</string>
+		<string>Work with our team of iOS developers to enhance our home control app. Use the latest iOS features to add functionality to Savant&apos;s large, feature-rich control system.</string>
+	</array>
+	<key>PositionResponsibility</key>
+	<array>
+		<array>
+			<string>Conduct market and competitive analysis to define trends, strategically evaluate new market opportunities and work with others in the product management team to identify automation products that can enhance customer workflows.</string>
+			<string>Define pricing strategy, product messaging, positioning and configuration to ensure the best possible performance versus business goals for current and future products using market research and feedback from customers.</string>
+			<string>Collaborate with customers and subject matter experts to generate proof of concept data and penetrate key application areas.</string>
+			<string>Partner with cross-functional leaders from other departments including marketing, engineering, application development, manufacturing, and sales to achieve business objectives.</string>
+			<string>Work with marketing department to develop integrator and customer-focused messaging/ collateral materials for your products.</string>
+			<string>Work with sales department to develop sales training that enables the sales team to clearly position products and explain their benefits to our current and future customers.</string>
+			<string>Manage new and active product lines through the entire product life cycle.</string>
+			<string>Work with Product Management department head on key initiatives.</string>
+		</array>
+		<array/>
+		<array>
+			<string>Responsible for driving revenue targets and building and maintaining relationships with new and existing customers</string>
+			<string>Partner with existing integrators/reps to develop and execute strategic account plans to meet monthly, quarterly and annual revenue goals</string>
+			<string>Conduct effective sales presentations as well as product demonstrations to integrator base and prospective integrators</string>
+			<string>Ensure representatives are meeting defined growth objectives</string>
+			<string>Stay abreast of industry trends and marketing developments</string>
+			<string>Attend industry trade shows and events</string>
+		</array>
+		<array>
+			<string>Manage the team responsible for Savant’s suite of online tools, including:</string>
+			<string>Ongoing analysis of online tool, platform, and vendor selections to maximize functionality and efficiencies.</string>
+			<string>Management of our B2B digital commerce initiative, driving future enhancements and features to our online procurement platform to maximize sales.</string>
+			<string>Management of the externally facing consumer website.</string>
+			<string>Management of the B2B service portal our Savant Certified Integrators use for support and training.</string>
+			<string>Contribute to B2B digital marketing automation efforts, helping to develop online campaigns to drive and track continuous improvement in lead generation.</string>
+			<string>Balance management responsibilities with a roll up your sleeves attitude necessary in a fast paced rapid growth environment.</string>
+		</array>
+		<array>
+			<string>Conceptual development and copy deliverables, including campaigns, headlines, body copy, website, email, mobile apps and other forms of interfaces</string>
+			<string>Interfacing directly with business owners and properly communicating vision</string>
+			<string>Brainstorming new platforms, insights, taglines, scripts, manifestos and strategy decks</string>
+			<string>Collaborating easily with art directors, content strategists, designers, technologists, and producers to create inspiring messaging solutions</string>
+			<string>Effectively take direction to re-write, craft and polish all communication elements from creative to technical</string>
+			<string>Manage and stay close to projects as they go through our iterative process</string>
+			<string>Successfully drive ideas forward without having to be chained at your desk</string>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+	</array>
+	<key>PositionQualification</key>
+	<array>
+		<array>
+			<string>Bachelors or Masters degree in product management, automation, or a related discipline plus a minimum of 3 years product management experience, with typically 5 to 10 years practical experience in the home automation field.</string>
+		</array>
+		<array>
+			<string>Must have basic software programming knowledge</string>
+			<string>Excellent analytical and communication skills</string>
+			<string>Understand technical documentation</string>
+			<string>Programming in Java,C/C++, Objective C</string>
+			<string>Knowledge of XML a plus</string>
+			<string>BSCS/BSCE required</string>
+		</array>
+		<array>
+			<string>Proven track record of exceeding sales goals &amp; objectives</string>
+			<string>Ability to effectively articulate Savant&apos;s solution set</string>
+			<string>Overall knowledge of technology and industry is required</string>
+			<string>Ability to travel 50%</string>
+			<string>Bachelor’s degree required</string>
+		</array>
+		<array>
+			<string>At least 5 years of relevant experience in Product Management, Product Marketing, Business Development and/or management consulting in high tech. Home automation hardware, software, and/or B2B experience a plus.</string>
+			<string>Bachelor’s degree in business, engineering, computer science or marketing/communications, MBA Preferred.
+</string>
+			<string>Experience managing B2B eCommerce initiatives.</string>
+			<string>Experience with digital marketing platforms, such as SalesForce Pardot.</string>
+			<string>Excellent written and verbal communication skills.  Must be able to communicate with a wide variety of audiences ranging in skill set (highly technical to non-technical) and experience (individual contributors to executive management), cross-organizationally and with external partners.  Must be able to create and deliver informative, well-organized and engaging presentations and reports.</string>
+			<string>Excellent business acumen and business negotiation skills. Must be able to develop business proposals and negotiate term sheets / contracts.</string>
+			<string>Excellent interpersonal skills.  Must be able to work collaboratively in a team environment and build strong working relationships with both internal and external partners.</string>
+			<string>Must be resourceful and seek solutions through research, information gathering, stakeholder discussions, and exercise sound business judgment.</string>
+			<string>Interest and passion for new and emerging technologies.</string>
+		</array>
+		<array>
+			<string>5-6 years experience, background in consumer products preferred</string>
+			<string>Digital, broadcast, print and product experience</string>
+			<string>Strong written and verbal communication skills</string>
+			<string>Creative thinker with strong problem solving capabilities</string>
+			<string>Able to travel to interface with other satellite offices</string>
+		</array>
+		<array>
+			<string>6+ years experience in optimizing and speccing web &amp; app platforms</string>
+			<string>Strong written and verbal communication skills</string>
+			<string>Creative thinker with strong problem solving capabilities</string>
+			<string>Able to travel and work remotely with Design and Software teams</string>
+		</array>
+		<array>
+			<string>Cocoa</string>
+			<string>Appkit</string>
+			<string>Mac OS X</string>
+			<string>XCode</string>
+			<string>Source Control (cvs, svn, git)</string>
+		</array>
+		<array>
+			<string>Experience with iOS application development, Objective-C, UIKit, Core Animation</string>
+			<string>Experience with network communications</string>
+			<string>Experience using Xcode as an IDE</string>
+			<string>Experience using Instruments for performance optimization</string>
+			<string>Understanding of MVC (Model-View-Controller) design</string>
+			<string>Familiarity with source control (any of cvs, svn, git, mercurial, etc.)</string>
+		</array>
+	</array>
+	<key>PositionAdditionalQualification</key>
+	<array>
+		<array>
+			<string>Experience with Product Management/Marketing of automation instruments and/or consumables, or next-gen products in the residential markets. Clear understanding of customer workflows within these markets.</string>
+			<string>Strong organizational skills. Be able to demonstrate the ability to set priorities based on alignment with business goals and strategic direction, define timelines and deliver to commitments. </string>
+			<string>Demonstrated use of marketing skills and market knowledge to define and commercialize products that result in business success.</string>
+			<string>Proven ability to work collaboratively with sales and marketing professionals across the organization to develop effective market strategies and programs which meet revenue forecasts and growth targets.</string>
+			<string>Experience in working with worldwide customers and is a strong internal advocate for customer-focused solutions and application-driven development.</string>
+			<string>Must exhibit strategic thinking, teamwork, creativity, planning and execution skills backed by strong analytical and decision making.</string>
+			<string>Excellent verbal, written and presentation communication skills. Ability to convey Agilents product solution vision and market strategy to internal and external partners.</string>
+			<string>Must have flexibility in working hours and available for 25% national &amp; international business travel.</string>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>UI Implementation experience</string>
+			<string>Troubleshooting</string>
+			<string>Debugging</string>
+			<string>Resource Profiling</string>
+			<string>SQL</string>
+			<string>XML</string>
+			<string>Network communications</string>
+		</array>
+		<array>
+			<string>Must have strong debugging skills; should be able to drop into unfamiliar code and trace through it</string>
+			<string>Should have one or more functional apps; these should be demonstrated during the interview</string>
+		</array>
+	</array>
+</dict>
+</plist>
