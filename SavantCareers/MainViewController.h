@@ -11,5 +11,6 @@
 @interface MainViewController : UIViewController
 // Test comment 1
 // Test comment 2
+// Test Comment 3
 
 @end
